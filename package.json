@@ -1,0 +1,23 @@
+{
+  "name": "vnm-to-alphabet",
+  "version": "1.0.5",
+  "description": "Convert string from vietnamese characters to alphabet characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhqb365/vnm-to-alphabet.git"
+  },
+  "keywords": [
+    "vietnamese to alphabet",
+    "search with vietnamese"
+  ],
+  "author": "Mai Hoang Quoc Bao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhqb365/vnm-to-alphabet/issues"
+  },
+  "homepage": "https://github.com/mhqb365/vnm-to-alphabet#readme"
+}
