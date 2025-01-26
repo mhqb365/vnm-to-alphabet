@@ -1,5 +1,5 @@
 ### About
-Áp dụng vào ứng dụng tìm kiếm với ngôn ngữ tiếng việt
+Dùng để chuyển chuỗi có dấu thành không dấu (có tùy chọn)
 ```javascript
 const vnmToAlphabet = require('vnm-to-alphabet');
 
